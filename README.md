@@ -2,7 +2,7 @@
 <H3>ENTER YOUR REGISTER NO.212222230106</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:18-05-2025</H3>
-<H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
+<H1 ALIGN =CENTER>EXP-06 Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
 Step 1:Import the required libraries: numpy, pandas, MLPClassifier, train_test_split, StandardScaler, accuracy_score, and matplotlib.pyplot.<BR>
